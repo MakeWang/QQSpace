@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="size_default_height">160dp</dimen>
+</resources>
